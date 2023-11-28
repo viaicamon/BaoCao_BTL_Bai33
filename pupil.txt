@@ -1,0 +1,61 @@
+10
+12345
+Tran Van A
+Nam
+19
+8.00 7.00 6.00 7.00
+Kha
+12346
+Tran Thi B
+Nu
+19
+8.00 9.00 8.75 8.58
+Gioi
+12347
+Mai Thi C
+Nu
+19
+6.00 5.50 5.25 5.58
+Trung Binh
+12348
+Nguyen Van D
+Nam
+19
+4.20 3.25 3.75 3.73
+Yeu
+12349
+Tran Van D
+Nam
+19
+6.00 7.75 8.25 7.33
+Kha
+12350
+Le Thi E
+Nu
+19
+4.40 3.25 2.75 3.47
+Yeu
+12351
+Dang Thang F
+Nam
+20
+7.20 8.25 6.00 7.32
+Kha
+12352
+Doan Quang G
+Nam
+19
+10.00 9.25 9.75 9.67
+Gioi
+12353
+Pham Ngoc Q
+Nam
+20
+6.00 4.00 3.00 4.33
+Yeu
+12354
+Tran Trung K
+Nam
+22
+9.00 5.25 7.75 7.33
+Kha
